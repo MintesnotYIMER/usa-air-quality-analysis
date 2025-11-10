@@ -69,4 +69,5 @@ Analyzed **ten years of Air Quality Index (AQI) data (2013–2023)** across U.S.
 The analysis revealed a general improvement in U.S. air quality over the decade but also emphasized growing **regional disparities**.  
 Western states remain heavily affected by **wildfires**, while many eastern states have seen consistent progress.
 
-📘 [Full Report (PDF)](YOUR_PDF_LINK_HERE)
+📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/usa-air-quality-analysis/blob/main/TermProjectReport.pdf)
+📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/usa-air-quality-analysis/blob/main/TermProjectReport.pdf)
