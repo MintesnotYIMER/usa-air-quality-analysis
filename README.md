@@ -49,19 +49,9 @@ Analyzed **ten years of Air Quality Index (AQI) data (2013–2023)** across U.S.
 
 ---
 
-## 📊 Visuals
-![AQI Change 2013–2023](images/aqi_trend.png)
-*Bar chart showing states with highest AQI improvement and decline.*
-
-![Geographic Map](images/aqi_map.png)
-*Power BI map of maximum AQI by county in 2023.*
-
----
-
 ## 💻 How to Run
-1. Open notebook → [Google Colab Link](YOUR_COLAB_LINK_HERE)  
+1. Open notebook → [Google Colab Link](https://colab.research.google.com/drive/1mhp5GHniYOor4SX9-GL8hA3plltdaauc?usp=sharing) 
 2. Run data preprocessing and plotting cells.  
-3. (Optional) View interactive map in **Power BI dashboard**.  
 
 ---
 
@@ -69,5 +59,4 @@ Analyzed **ten years of Air Quality Index (AQI) data (2013–2023)** across U.S.
 The analysis revealed a general improvement in U.S. air quality over the decade but also emphasized growing **regional disparities**.  
 Western states remain heavily affected by **wildfires**, while many eastern states have seen consistent progress.
 
-📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/usa-air-quality-analysis/blob/main/TermProjectReport.pdf)
 📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/usa-air-quality-analysis/blob/main/TermProjectReport.pdf)
